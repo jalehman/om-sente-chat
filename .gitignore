@@ -1,7 +1,4 @@
-/resources/public/app-js/
-/resources/public/admin-js/
+/resources/public/js/
 /target/
-/logs/
-/init-script/
 .nrepl-port
 .lein-repl-history
